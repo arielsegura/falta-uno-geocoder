@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "bluebird": "^3.5.1",
+    "q": "^1.5.1",
+    "redis": "^2.8.0"
+  }
+}
