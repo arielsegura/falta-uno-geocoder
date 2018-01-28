@@ -21,7 +21,7 @@ const client = redis.createClient(
     '13690',
     'redis-13690.c13.us-east-1-3.ec2.cloud.redislabs.com',
     {
-      'auth_pass': 'Asuperpassw0rd!',
+      'auth_pass': 'tuvieja!',
       'return_buffers': true
     }
   ).on('error', (err) => console.error('ERR:REDIS:', err));
